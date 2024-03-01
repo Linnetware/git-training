@@ -8,3 +8,6 @@ Well, second line
 IPSUM stands for latin intensive pronoun but related in tech for Intellectual Property Summary 
 
 Though, I should find out what a heck is really ipsum...but you know now, I am becoming word lover picky...
+
+#IPSUM SECOND
+OK. THIS IS A PRELIMINARY COMMENT
