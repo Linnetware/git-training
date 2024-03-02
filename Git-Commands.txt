@@ -1,0 +1,24 @@
+GIT AND GITHUB COURSE
+
+
+Git Commands for basic initialization:
+pwd (present working director)
+git config --global user.name "Ulises Lino"
+git config --global user.email ulises.lino@linnetware.com
+git config --global --list
+cat ~/.gitconfig
+
+Git Commands to start working:
+git init git-demo
+ls -a
+git init (inside the folder will create a ini git folder)
+git status (to know what is under control)
+git add file.ext (add file to work spaece, staging area or git index, branch master is by default)
+git commit -m "Initial Commit"
+git add README.md
+git commit -m "Adding some ipsum"
+git commit -am "Adding more comments" (shorcut to ADD and COMMIT with -a for add and m for message)
+git add . (period is to recursively to add files to staging area)
+git reset HEAD filename.ext (to unstage, to back off files from staging area)
+
+

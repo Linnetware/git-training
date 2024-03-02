@@ -10,4 +10,7 @@ IPSUM stands for latin intensive pronoun but related in tech for Intellectual Pr
 Though, I should find out what a heck is really ipsum...but you know now, I am becoming word lover picky...
 
 #IPSUM SECOND
-OK. THIS IS A PRELIMINARY COMMENT
+OK. THIS IS A PRELIMINARY COMMENT (this faile because once committed theres is no un-staging
+
+#IPSUM THIRD
+Ok. Lets try again to back off from staging area
