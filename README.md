@@ -14,3 +14,6 @@ OK. THIS IS A PRELIMINARY COMMENT (this faile because once committed theres is n
 
 #IPSUM THIRD
 Ok. Lets try again to back off from staging area
+
+#FINAL IPSUM
+Default branch "master" was updated for second time
