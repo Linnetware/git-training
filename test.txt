@@ -1,0 +1,65 @@
+[33mcommit 9d76088a05a55c4de845cf644ad6b0b9e0a135f3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Ulises Lino <ulises.lino@linnetware.com>
+Date:   Sat Mar 2 15:53:11 2024 -0600
+
+    Commit before GITHUB remote repo
+
+[33mcommit 0d245262431963ac6d77f58df69d191f52b722e3[m
+Author: Ulises Lino <ulises.lino@linnetware.com>
+Date:   Sat Mar 2 07:40:02 2024 -0600
+
+    Committing .gitignore file in pwd
+
+[33mcommit 12675680413f8786012db508b4402d290026ba7f[m
+Author: Ulises Lino <ulises.lino@linnetware.com>
+Date:   Sat Mar 2 07:29:30 2024 -0600
+
+    Moving file to temp folder
+
+[33mcommit 2d9748cfd3fe0ba226e28a710bab5846661f8907[m
+Author: Ulises Lino <ulises.lino@linnetware.com>
+Date:   Sat Mar 2 07:25:49 2024 -0600
+
+    Adding folder TEMP and file
+
+[33mcommit ec22974411a9981732953cfcd4bcca584a535149[m
+Author: Ulises Lino <ulises.lino@linnetware.com>
+Date:   Sat Mar 2 07:19:05 2024 -0600
+
+    Trash file was removed
+
+[33mcommit 88df7c4b9ed7b340cea5008b36dc44a144127207[m
+Author: Ulises Lino <ulises.lino@linnetware.com>
+Date:   Sat Mar 2 07:17:25 2024 -0600
+
+    Trash added
+
+[33mcommit 2a987efeba21493cfc92ac7ffa381e98b3d99667[m
+Author: Ulises Lino <ulises.lino@linnetware.com>
+Date:   Sat Mar 2 07:04:03 2024 -0600
+
+    Changes were made AFTER ADD to stage
+
+[33mcommit 2f7fec32a2129cd165f4844dcf12ddc3eb7867b4[m
+Author: Ulises Lino <ulises.lino@linnetware.com>
+Date:   Fri Mar 1 08:41:57 2024 -0600
+
+    Adding draft proposal to back off if necessary
+
+[33mcommit f10519c1016c5c40020429d0987e4c530ac71f6a[m
+Author: Ulises Lino <ulises.lino@linnetware.com>
+Date:   Fri Mar 1 08:20:18 2024 -0600
+
+    Adding more comments
+
+[33mcommit dde42d182d82c91401ba5bb931dbdcabab575e70[m
+Author: Ulises Lino <ulises.lino@linnetware.com>
+Date:   Fri Mar 1 08:16:46 2024 -0600
+
+    Adding some ipsum
+
+[33mcommit 295599f6257dc3f75cfd51b2ad13e17571e7c7d5[m
+Author: Ulises Lino <ulises.lino@linnetware.com>
+Date:   Fri Mar 1 08:05:24 2024 -0600
+
+    Initial Commit
